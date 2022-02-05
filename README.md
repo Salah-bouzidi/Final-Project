@@ -108,10 +108,13 @@ so that's why we created the two classes  :
 
 
 ![Drag Racing](3c.png)
+
  * ### In this part, we have to write a code to implement the first version of the Tic Tac Toe game which allows a human player to play against the computer that will acquire a kind of intelligence as it has known the game rules to win and not to loose. 
 
 In order to achieve this part goal, we have to follow these steps :
+
 ![Drag Racing](6c.png)
+
 - **Firstly, we declare our methods and variables in *vscomputer.h* :**
 ```cpp
 
