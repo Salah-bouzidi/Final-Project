@@ -42,7 +42,7 @@ private:
     Ui::MainWindow *ui;
     //Object of twoplayers class
     twoplayers *two_players;
-     //constructor of vscomputer class
+     //Object of vscomputer class
     vscomputer *vs_computer;
 };
 #endif // MAINWINDOW_H
