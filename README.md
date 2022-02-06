@@ -149,7 +149,7 @@ private slots:
 //declaring our slots 
     void on_button1_clicked();
     void on_pushButton_clicked();
-    void on_textEdit_copyAvailable(bool b);
+    
 };
 
 #endif // vscomputer_H
