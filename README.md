@@ -40,7 +40,7 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-    //constructor of twoplayers class
+    //Object of twoplayers class
     twoplayers *two_players;
      //constructor of vscomputer class
     vscomputer *vs_computer;
